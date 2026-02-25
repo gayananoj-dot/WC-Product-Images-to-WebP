@@ -145,4 +145,4 @@ For major changes, please open an issue first to discuss your proposal.
 ---
 
 ## Author
-Gayan
+Gayan P.
